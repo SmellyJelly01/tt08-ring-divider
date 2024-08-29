@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The output of a ring oscillator consisting of 5 NAND gates is divided by 128, using 7 flip flops.
 
 ## How to test
 
