@@ -5,7 +5,7 @@
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
-PROJECT_SOURCES = tt_um_ring_divider.v, RING_DIVIDER.v, RING_OSCILLATOR.v, nand_gate.v, frequency_divider.v, dff.v
+PROJECT_SOURCES = tt_um_ring_divider.v RING_DIVIDER.v RING_OSCILLATOR.v nand_gate.v frequency_divider.v dff.v
 
 ifneq ($(GATES),yes)
 
