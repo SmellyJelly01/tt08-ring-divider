@@ -1,4 +1,4 @@
-`timescale 1ps / 1ps
+`default_nettype none
 module dff (
     input wire clk,    // Clock signal
     input wire d,      // Data input

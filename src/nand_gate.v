@@ -1,4 +1,4 @@
-`timescale 1ps / 1ps
+`default_nettype none
 module nand_gate (
     input A,
     input B,

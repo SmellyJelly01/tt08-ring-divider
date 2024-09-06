@@ -1,4 +1,4 @@
-`timescale 1ps / 1ps
+`default_nettype none
 module frequency_divider (
     input wire clk_in,
     output wire clk_out2,
